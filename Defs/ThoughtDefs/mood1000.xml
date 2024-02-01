@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<ThoughtDef>
+    <defName>MRMood</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>MRMood</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Mood 1000</label>
+        <description>hehehe</description>
+        <baseMoodEffect>1000</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+ </Defs>

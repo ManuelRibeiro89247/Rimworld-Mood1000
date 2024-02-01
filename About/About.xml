@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+<packageId>manuelribeiro.mood1000</packageId>
+
+<name>Mood 1000</name>
+
+<authors>
+  <li>Manuel Ribeiro</li>
+</authors>
+
+<description>Health condition that gives the pawn 1000 mood permanent</description>
+
+<supportedVersions>
+  <li>1.4</li>
+</supportedVersions>
+
+<modVersion IgnoreIfNoMatchingField="True">1.0</modVersion>
+
+<url>https://steamcommunity.com/workshop/filedetails/?id=2009463077</url>
+
+</ModMetaData>

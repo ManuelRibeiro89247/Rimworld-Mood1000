@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<HediffDef>
+		<defName>MRMood</defName>
+		<description>This creature is akin to a god, impervious to mundane affairs.</description>
+		<label>Disinterested in mundane affairs</label>
+		<defaultLabelColor>(0,255,255)</defaultLabelColor>
+		<scenarioCanAdd>false</scenarioCanAdd>
+		<maxSeverity>1.0</maxSeverity>
+		<stages>
+			<li>
+			</li>
+		</stages>
+		<isBad>false</isBad>
+	</HediffDef>
+</Defs>
