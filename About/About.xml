@@ -5,7 +5,9 @@
 
 <name>Mood 1000</name>
 
-<authors>Manuel Ribeiro</authors>
+<authors>
+  <li>1.Manuel Ribeiro</li>
+</authors>
 
 <targetVersion>1.6.0</targetVersion>
 
